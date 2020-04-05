@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  myubuntu:
+    container_name: oop2
+    image: oop2
+    command: /bin/bash
+    tty: true
